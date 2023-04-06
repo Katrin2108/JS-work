@@ -16,6 +16,6 @@ console.log ("my computer is");
 const myComputerMemory="64GB";
 const myComputerOS=" Hp core i7";
 console.log ("it runs on")
-const computerBuyingYear="2021";
+const computerBuyingYear="2020";
 const currentYear="2023";
 console.log("and I've been using it for 2 year");
