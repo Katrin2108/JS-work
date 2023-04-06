@@ -1,5 +1,3 @@
-console.log("text from js.file");
-
 var studentName = "Ekaterine";
 
 let studentName2 ="katrin";
